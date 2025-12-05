@@ -1,0 +1,22 @@
+## MATLAB / Simulink automatically generated files
+
+# Windows default autosave extension
+*.asv
+
+# Unix / macOS autosave extension
+*.m~
+
+# Compiled MEX files (all platforms)
+*.mex*
+
+# Simulink code generation folder
+slprj/
+
+# MATLAB session info / workspace (e.g. Octave)
+octave-workspace
+
+# Simulink autosave
+*.autosave
+
+# Simulink “original” model backups
+*.slx.original
