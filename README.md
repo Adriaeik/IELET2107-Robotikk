@@ -15,7 +15,7 @@ variable twist parameters._
 | Path | Contents | Start here |
 | --- | --- | --- |
 | [`DH/`](DH/) | Flexible DH-table creation, terminal output, interactive forward-kinematics visualization, and a trajectory animation helper | [DH usage guide](DH/README.md) |
-| [`SCARA_DYN/`](SCARA_DYN/) | A separate three-DOF SCARA dynamics example with PD control, `ode45`, and rigid-body-tree animation | [`example.mlx`](SCARA_DYN/example.mlx) |
+| [`SCARA_DYN/`](SCARA_DYN/) | A separate three-DOF SCARA dynamics example with PD control, `ode45`, and rigid-body-tree animation | [SCARA guide](SCARA_DYN/README.md) |
 | [`eksamen2023/`](eksamen2023/) | NTNU 2023 exam exercises, figures, and expandable answer notes | [`2023.md`](eksamen2023/2023.md) |
 
 
