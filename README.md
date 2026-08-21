@@ -1,4 +1,4 @@
-# IELET2102 Robotics
+# IELET2107 Robotics
 
 A  MATLAB workspace for robotics exercises, with an interactive
 Denavit-Hartenberg (DH) visualizer and controller. Define a robot as a DH
